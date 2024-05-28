@@ -1,0 +1,12 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "<h1>este es el challenge de AluraGeek en desarrollo</h1>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

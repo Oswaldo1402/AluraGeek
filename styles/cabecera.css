@@ -1,0 +1,13 @@
+
+
+.corazones{
+    height:20px;
+    width: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: #ffffff;
+}
+.imagen_corazones{
+    height:25px;   
+}
