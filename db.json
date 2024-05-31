@@ -1,41 +1,46 @@
 {
-    "productos":[
-        {
-            "id": 1,
-            "producto": "Inca Kola 3L",
-            "precio": "13,50",
-            "imagen":"https://wongfood.vtexassets.com/arquivos/ids/696284-1600-auto?v=638469960738370000&width=1600&height=auto&aspect=true"
-        },
-        {
-            "id": 2,
-            "producto": "Coca Cola 3L",
-            "precio": "13,50",
-            "imagen":"https://wongfood.vtexassets.com/arquivos/ids/696277-800-auto?v=638469960710230000&width=800&height=auto&aspect=true"
-        },
-        {
-            "id": 3,
-            "producto": "Coca Cola 300 ml",
-            "precio": "1,20",
-            "imagen":"https://cdn1.totalcommerce.cloud/gastronomy/product-zoom/es/gaseosa-coca-cola-300ml-1.webp"
-        },
-        {
-            "id": 4,
-            "producto": "Inca Kola 300ml",
-            "precio": "1,20",
-            "imagen":"https://dojiw2m9tvv09.cloudfront.net/75518/product/X_08831566347.png?224&time=1716892422"
-        },
-        {
-            "id": 5,
-            "producto": "Inca Kola 600ml",
-            "precio": "3,00",
-            "imagen":"https://socialdrinks.pe/wp-content/uploads/2023/11/751_inca-600.jpeg"
-        },
-        {
-            "id": 6,
-            "producto": "Coca Cola 600 ml",
-            "precio": "3,00",
-            "imagen":"https://vegaperu.vtexassets.com/arquivos/ids/155482-800-auto?v=637612800411900000&width=800&height=auto&aspect=true"
-        }
-        
-    ]
+  "productos": [
+    {
+      "id": "1",
+      "producto": "Inca Kola 3L",
+      "precio": "13,50",
+      "imagen": "https://wongfood.vtexassets.com/arquivos/ids/696284-1600-auto?v=638469960738370000&width=1600&height=auto&aspect=true"
+    },
+    {
+      "id": "2",
+      "producto": "Coca Cola 3L",
+      "precio": "13,50",
+      "imagen": "https://wongfood.vtexassets.com/arquivos/ids/696277-800-auto?v=638469960710230000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": "3",
+      "producto": "Coca Cola 300 ml",
+      "precio": "1,70",
+      "imagen": "https://cdn1.totalcommerce.cloud/gastronomy/product-zoom/es/gaseosa-coca-cola-300ml-1.webp"
+    },
+    {
+      "id": "4",
+      "producto": "Inca Kola 300ml",
+      "precio": "1,70",
+      "imagen": "https://dojiw2m9tvv09.cloudfront.net/75518/product/X_08831566347.png?224&time=1716892422"
+    },
+    {
+      "id": "5",
+      "producto": "Inca Kola 600ml",
+      "precio": "3,00",
+      "imagen": "https://socialdrinks.pe/wp-content/uploads/2023/11/751_inca-600.jpeg"
+    },
+    {
+      "id": "6",
+      "producto": "Coca Cola 600 ml",
+      "precio": "3,00",
+      "imagen": "https://vegaperu.vtexassets.com/arquivos/ids/155482-800-auto?v=637612800411900000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": "5ced",
+      "producto": "oswa",
+      "precio": "1",
+      "Imagen": "https://socialdrinks.pe/wp-content/uploads/2023/11/751_inca-600.jpeg"
+    }
+  ]
 }
